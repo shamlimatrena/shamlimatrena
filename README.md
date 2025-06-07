@@ -10,8 +10,8 @@
   "designation": "Software Engineer",
   "email": "shamlimatrena08@gmail.com",
   "skills": ["react.js", "python", "c++", "MySQL", "ML"],
-  "learning": ["Django", "JavaScript","Groovy "],
-  "interest": ["Web", "Fullstack Engineering", "machine learning", "LLM", "Database", "Distributed System", "Cloud", "System Design"]
+  "learning": ["Django", "JavaScript", "Groovy "],
+  "interest": ["Web", "Fullstack Engineering", "Machine Learning", "LLM", "Database", "Distributed System", "Cloud", "System Design"]
 }
 ```
 ## 💻 Technologies I have Worked on
