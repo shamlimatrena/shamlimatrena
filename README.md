@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Shamlima Deb Trena</h1>
-<h3 align="center"> NSUer | Computer Science Graduate | Programmimg Enthusiast</h3>
+<h3 align="center"> Software Engineer | Programmimg Enthusiast | AI Researcher </h3>
 
 ![](https://komarev.com/ghpvc/?username=shamlimatrena&color=blue&style=flat-square&base=100&abbreviated=true)
 ## 📄 About Me
